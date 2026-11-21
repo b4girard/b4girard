@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=Isabelle%20Girard&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Técnica%20em%20Informática%20·%20CEFET-RJ&descAlignY=58&descSize=18" alt="header" />
 
-**Desenvolvedora em formação**
+**Desenvolvedora em formação · Apaixonada por backend e banco de dados · Transformando café em código ☕**
 
 <br/>
 
@@ -39,27 +39,40 @@ Estudante finalizando o curso técnico de **Informática no CEFET-RJ**, com form
 
 ## 🚀 Projetos
 
-<div align="center">
-
-<a href="https://github.com/b4girard/Arquivo_Cultural_PHP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b4girard&repo=Arquivo_Cultural_PHP&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB" alt="Arquivo_Cultural_PHP" />
-</a>
-<a href="https://github.com/b4girard/Arquivo-Cultural-LP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b4girard&repo=Arquivo-Cultural-LP&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB" alt="Arquivo-Cultural-LP" />
-</a>
-
-<a href="https://github.com/b4girard/Problema_de_Transporte_CantoNoroeste">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b4girard&repo=Problema_de_Transporte_CantoNoroeste&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB" alt="Problema_de_Transporte_CantoNoroeste" />
-</a>
-<a href="https://github.com/b4girard/Vital-Care">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b4girard&repo=Vital-Care&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB" alt="Vital-Care" />
-</a>
-
-<a href="https://github.com/b4girard/Sociologia-Digital">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=b4girard&repo=Sociologia-Digital&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB" alt="Sociologia-Digital" />
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td valign="top" align="center">
+      <a href="https://github.com/b4girard/Arquivo_Cultural_PHP">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=b4girard&repo=Arquivo_Cultural_PHP&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB" alt="Arquivo_Cultural_PHP" />
+      </a>
+    </td>
+    <td valign="top" align="center">
+      <a href="https://github.com/b4girard/Arquivo-Cultural-LP">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=b4girard&repo=Arquivo-Cultural-LP&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB" alt="Arquivo-Cultural-LP" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <a href="https://github.com/b4girard/Problema_de_Transporte_CantoNoroeste">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=b4girard&repo=Problema_de_Transporte_CantoNoroeste&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB" alt="Problema_de_Transporte_CantoNoroeste" />
+      </a>
+    </td>
+    <td valign="top" align="center">
+      <a href="https://github.com/b4girard/Vital-Care">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=b4girard&repo=Vital-Care&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB" alt="Vital-Care" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <a href="https://github.com/b4girard/Sociologia-Digital">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=b4girard&repo=Sociologia-Digital&theme=dark&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB" alt="Sociologia-Digital" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
