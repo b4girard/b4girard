@@ -1,7 +1,6 @@
-<div align="center"> 
-<img 
-src="https://capsulerender.vercel.app/apitype=waving&height=200&color=0:7C3AED,100:10B981&text=Isabelle%20Girard&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Técnica%20em%20Informática%20·%20UFCI-RJ&descAlignY=58&descSize=18" alt="header" 
-  />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=7C3AED&text=Isabelle%20Girard&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Técnica%20em%20Informática%20·%20UFCI-RJ&descAlignY=58&descSize=18" alt="header" />
 
 **Desenvolvedora em formação**
 
@@ -84,6 +83,6 @@ Estudante finalizando o curso técnico de **Informática no CEFET-RJ**, com form
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=b4girard&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=34D399&text_color=E5E7EB&ring_color=A78BFA" alt="stats" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4girard&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=E5E7EB" alt="top langs" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,12,20&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=10B981&section=footer" alt="footer" />
 
 </div>
