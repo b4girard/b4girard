@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=Isabelle%20Girard&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Técnica%20em%20Informática%20·%20CEFET-RJ&descAlignY=58&descSize=18" alt="header" />
 
-**Desenvolvedora em formação · Apaixonada por backend e banco de dados · Transformando café em código ☕**
+**Desenvolvedora em formação**
 
 <br/>
 
